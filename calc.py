@@ -26,3 +26,6 @@ else:
 
 if resultado is not None:
     print("Resultado:", resultado)
+
+
+print("Fim do calculo")
